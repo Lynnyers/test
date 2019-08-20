@@ -1,1 +1,2 @@
 test conflict in different branches with files with same name and different content.
+test2
