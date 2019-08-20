@@ -1,1 +1,1 @@
-test commit same name files and different contents.
+test conflict in different branches with files with same name and different content.
