@@ -1,2 +1,2 @@
 testing mergetool
-testing mergetool in master
+testing mergetool in b1
