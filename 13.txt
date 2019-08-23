@@ -1,0 +1,1 @@
+testing merge default in b1: touch -> commit -> rm -> commit -> merge master
