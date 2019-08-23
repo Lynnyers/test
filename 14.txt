@@ -1,1 +1,2 @@
-testing mergtool
+testing mergetool
+testing mergetool in b1
