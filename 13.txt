@@ -1,0 +1,1 @@
+testing git rm in b1: 13.txt
