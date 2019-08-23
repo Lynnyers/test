@@ -1,2 +1,0 @@
-testing merge in master : add 12.txt
-testing merge in b1 : modify 12.txt
